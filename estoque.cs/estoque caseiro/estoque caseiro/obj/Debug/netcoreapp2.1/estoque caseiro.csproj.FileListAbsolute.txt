@@ -1,0 +1,22 @@
+C:\Users\SMC-Torelly-TI\Desktop\programa para estoque de casa\estoque caseiro\estoque caseiro\bin\Debug\netcoreapp2.1\estoque caseiro.deps.json
+C:\Users\SMC-Torelly-TI\Desktop\programa para estoque de casa\estoque caseiro\estoque caseiro\bin\Debug\netcoreapp2.1\estoque caseiro.runtimeconfig.json
+C:\Users\SMC-Torelly-TI\Desktop\programa para estoque de casa\estoque caseiro\estoque caseiro\bin\Debug\netcoreapp2.1\estoque caseiro.runtimeconfig.dev.json
+C:\Users\SMC-Torelly-TI\Desktop\programa para estoque de casa\estoque caseiro\estoque caseiro\bin\Debug\netcoreapp2.1\estoque caseiro.dll
+C:\Users\SMC-Torelly-TI\Desktop\programa para estoque de casa\estoque caseiro\estoque caseiro\bin\Debug\netcoreapp2.1\estoque caseiro.pdb
+C:\Users\SMC-Torelly-TI\Desktop\programa para estoque de casa\estoque caseiro\estoque caseiro\obj\Debug\netcoreapp2.1\estoque caseiro.csprojAssemblyReference.cache
+C:\Users\SMC-Torelly-TI\Desktop\programa para estoque de casa\estoque caseiro\estoque caseiro\obj\Debug\netcoreapp2.1\estoque caseiro.csproj.CoreCompileInputs.cache
+C:\Users\SMC-Torelly-TI\Desktop\programa para estoque de casa\estoque caseiro\estoque caseiro\obj\Debug\netcoreapp2.1\estoque caseiro.AssemblyInfoInputs.cache
+C:\Users\SMC-Torelly-TI\Desktop\programa para estoque de casa\estoque caseiro\estoque caseiro\obj\Debug\netcoreapp2.1\estoque caseiro.AssemblyInfo.cs
+C:\Users\SMC-Torelly-TI\Desktop\programa para estoque de casa\estoque caseiro\estoque caseiro\obj\Debug\netcoreapp2.1\estoque caseiro.dll
+C:\Users\SMC-Torelly-TI\Desktop\programa para estoque de casa\estoque caseiro\estoque caseiro\obj\Debug\netcoreapp2.1\estoque caseiro.pdb
+C:\Users\Enio\OneDrive\Técnico em Informática\Linguagem de programação Desktop 1\C#\EXEMPLO 10.07.19\programa para estoque de casa\estoque caseiro\estoque caseiro\bin\Debug\netcoreapp2.1\estoque caseiro.deps.json
+C:\Users\Enio\OneDrive\Técnico em Informática\Linguagem de programação Desktop 1\C#\EXEMPLO 10.07.19\programa para estoque de casa\estoque caseiro\estoque caseiro\bin\Debug\netcoreapp2.1\estoque caseiro.runtimeconfig.json
+C:\Users\Enio\OneDrive\Técnico em Informática\Linguagem de programação Desktop 1\C#\EXEMPLO 10.07.19\programa para estoque de casa\estoque caseiro\estoque caseiro\bin\Debug\netcoreapp2.1\estoque caseiro.runtimeconfig.dev.json
+C:\Users\Enio\OneDrive\Técnico em Informática\Linguagem de programação Desktop 1\C#\EXEMPLO 10.07.19\programa para estoque de casa\estoque caseiro\estoque caseiro\bin\Debug\netcoreapp2.1\estoque caseiro.dll
+C:\Users\Enio\OneDrive\Técnico em Informática\Linguagem de programação Desktop 1\C#\EXEMPLO 10.07.19\programa para estoque de casa\estoque caseiro\estoque caseiro\bin\Debug\netcoreapp2.1\estoque caseiro.pdb
+C:\Users\Enio\OneDrive\Técnico em Informática\Linguagem de programação Desktop 1\C#\EXEMPLO 10.07.19\programa para estoque de casa\estoque caseiro\estoque caseiro\obj\Debug\netcoreapp2.1\estoque caseiro.csprojAssemblyReference.cache
+C:\Users\Enio\OneDrive\Técnico em Informática\Linguagem de programação Desktop 1\C#\EXEMPLO 10.07.19\programa para estoque de casa\estoque caseiro\estoque caseiro\obj\Debug\netcoreapp2.1\estoque caseiro.csproj.CoreCompileInputs.cache
+C:\Users\Enio\OneDrive\Técnico em Informática\Linguagem de programação Desktop 1\C#\EXEMPLO 10.07.19\programa para estoque de casa\estoque caseiro\estoque caseiro\obj\Debug\netcoreapp2.1\estoque caseiro.AssemblyInfoInputs.cache
+C:\Users\Enio\OneDrive\Técnico em Informática\Linguagem de programação Desktop 1\C#\EXEMPLO 10.07.19\programa para estoque de casa\estoque caseiro\estoque caseiro\obj\Debug\netcoreapp2.1\estoque caseiro.AssemblyInfo.cs
+C:\Users\Enio\OneDrive\Técnico em Informática\Linguagem de programação Desktop 1\C#\EXEMPLO 10.07.19\programa para estoque de casa\estoque caseiro\estoque caseiro\obj\Debug\netcoreapp2.1\estoque caseiro.dll
+C:\Users\Enio\OneDrive\Técnico em Informática\Linguagem de programação Desktop 1\C#\EXEMPLO 10.07.19\programa para estoque de casa\estoque caseiro\estoque caseiro\obj\Debug\netcoreapp2.1\estoque caseiro.pdb
